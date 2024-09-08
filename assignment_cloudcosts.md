@@ -8,6 +8,8 @@
     - First to set up your account, where you can delegate access, configure subscriptions, and plan for cloud adoption.
     - Second, a place for reporting on and analyzing trends that can possibly help to identify anomalies.
     - Third, a place to control and optimize cost governance, hopefully to reduce waste and optimize costs
+![alt text](Azure1.png)
+  
   #### GCP
     - 
 ### 2. Set Up a Hypothetical Budget
