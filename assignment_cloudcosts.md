@@ -11,16 +11,29 @@
 ![Azure_Cost](Azure1.png)
   
   #### GCP
-    - 
-![GCP_Cost](https://github.com/m-sutt/HHA504_assignment_cloudcosts/edit/main/assignment_cloudcosts.md#:~:text=Azure%202.-,png,-Azure1.png)
+  - In the Billing Account overview you can monitor costs, set budgets, and alerts. There are options on the sidebar to view reports, cost table, cost breakdown, and budgets & alerts. There is also a cost optimization tab.
+    
+![GCP_Cost](https://github.com/m-sutt/HHA504_assignment_cloudcosts/blob/main/GCP_1.png)
 
 ### 2. Set Up a Hypothetical Budget
   #### Azure
-  - A
+
+![Azure_Hypo_Budget](https://github.com/m-sutt/HHA504_assignment_cloudcosts/blob/main/Azure%202.png)
+
   #### GCP
+   
+![GCP_Hypo_Budget](https://github.com/m-sutt/HHA504_assignment_cloudcosts/blob/main/GCP_2.png)
+
   
 ### 3. Investigate Cost Management Features
  #### Azure
-  - A
-  #### GCP
+  - Azure: the cost-saving recommendations appear in the Advisor-recommendations-cost options. There is also an Advisor score that can be helpful to see as a dashboard.
 
+![Azure_Cost_Man3a](https://github.com/m-sutt/HHA504_assignment_cloudcosts/blob/main/Azure_3a.png)
+
+![Azure_Cost_Man3b](https://github.com/m-sutt/HHA504_assignment_cloudcosts/blob/main/Azure_3b.png)
+
+ #### GCP
+  - Cost breakdown shows your base usage cost and how that cost was affected by any credits, adjustments, and taxes to arrive at your total cost. In the Dashboard section there are recommendations and also a section called “Top ways to save money”
+    
+![GCP_Cost_Man](https://github.com/m-sutt/HHA504_assignment_cloudcosts/blob/main/GCP_3.png)
