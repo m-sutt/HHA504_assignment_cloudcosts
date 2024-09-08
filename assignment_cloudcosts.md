@@ -12,7 +12,7 @@
   
   #### GCP
     - 
-![GCP_Cost]([Azure1.png](https://github.com/m-sutt/HHA504_assignment_cloudcosts/blob/main/Azure%202.png))
+![GCP_Cost](https://github.com/m-sutt/HHA504_assignment_cloudcosts/edit/main/assignment_cloudcosts.md#:~:text=Azure%202.-,png,-Azure1.png)
 
 ### 2. Set Up a Hypothetical Budget
   #### Azure
