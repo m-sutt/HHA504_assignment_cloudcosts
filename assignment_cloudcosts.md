@@ -31,7 +31,7 @@
 
 ![Azure_Cost_Man3a](Images/Azure_3a.png)
 
-![Azure_Cost_Man3b](https://github.com/m-sutt/HHA504_assignment_cloudcosts/blob/main/Azure_3b.png)
+![Azure_Cost_Man3b](Images/Azure_3b.png)
 
  #### GCP
   - Cost breakdown shows your base usage cost and how that cost was affected by any credits, adjustments, and taxes to arrive at your total cost. In the Dashboard section there are recommendations and also a section called “Top ways to save money”
