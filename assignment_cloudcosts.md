@@ -29,7 +29,7 @@
  #### Azure
   - Azure: the cost-saving recommendations appear in the Advisor-recommendations-cost options. There is also an Advisor score that can be helpful to see as a dashboard.
 
-![Azure_Cost_Man3a](https://github.com/m-sutt/HHA504_assignment_cloudcosts/blob/main/Azure_3a.png)
+![Azure_Cost_Man3a](Images/Azure_3a.png)
 
 ![Azure_Cost_Man3b](https://github.com/m-sutt/HHA504_assignment_cloudcosts/blob/main/Azure_3b.png)
 
