@@ -8,7 +8,7 @@
     - First, a place to delegate access, configure subscriptions, and plan for cloud adoption.
     - Second, a place for reporting on and analyzing trends that can possibly help to identify anomalies.
     - Third, a place to control and optimize cost governance, hopefully to reduce waste and optimize costs
-![Azure_Cost](Azure1.png)
+![Azure_Cost](Images/Azure1.png)
   
   #### GCP
   - In the Billing Account overview you can monitor costs, set budgets, and alerts. There are options on the sidebar to view reports, cost table, cost breakdown, and budgets & alerts. There is also a cost optimization tab.
