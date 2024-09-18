@@ -22,7 +22,7 @@
 
   #### GCP
    
-![GCP_Hypo_Budget](https://github.com/m-sutt/HHA504_assignment_cloudcosts/blob/main/GCP_2.png)
+![GCP_Hypo_Budget](Images/GCP_2.png)
 
   
 ### 3. Investigate Cost Management Features
