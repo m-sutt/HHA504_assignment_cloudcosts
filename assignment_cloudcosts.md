@@ -36,4 +36,4 @@
  #### GCP
   - Cost breakdown shows your base usage cost and how that cost was affected by any credits, adjustments, and taxes to arrive at your total cost. In the Dashboard section there are recommendations and also a section called “Top ways to save money”
     
-![GCP_Cost_Man](https://github.com/m-sutt/HHA504_assignment_cloudcosts/blob/main/GCP_3.png)
+![GCP_Cost_Man](Images/GCP_3.png)
