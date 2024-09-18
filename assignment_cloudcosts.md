@@ -13,7 +13,7 @@
   #### GCP
   - In the Billing Account overview you can monitor costs, set budgets, and alerts. There are options on the sidebar to view reports, cost table, cost breakdown, and budgets & alerts. There is also a cost optimization tab.
     
-![GCP_Cost](https://github.com/m-sutt/HHA504_assignment_cloudcosts/blob/main/GCP_1.png)
+![GCP_Cost](Images/GCP_1.png)
 
 ### 2. Set Up a Hypothetical Budget
   #### Azure
