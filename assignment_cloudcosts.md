@@ -18,7 +18,7 @@
 ### 2. Set Up a Hypothetical Budget
   #### Azure
 
-![Azure_Hypo_Budget](https://github.com/m-sutt/HHA504_assignment_cloudcosts/blob/main/Azure%202.png)
+![Azure_Hypo_Budget](Images/Azure 2.png)
 
   #### GCP
    
