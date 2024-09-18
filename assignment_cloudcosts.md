@@ -18,7 +18,7 @@
 ### 2. Set Up a Hypothetical Budget
   #### Azure
 
-![Azure_Hypo_Budget](Images/Azure 2.png)
+![Azure_hypo_budget](Images/Azure_2.png)
 
   #### GCP
    
